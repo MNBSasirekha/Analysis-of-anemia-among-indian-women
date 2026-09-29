@@ -134,14 +134,14 @@ Data Visualization
 
 | Notebook | Purpose |
 |----------|---------|
-| 01_DataLoading.ipynb | Loads and initially inspects the dataset |
-| 02_Data_Acquisition_and_Filtering.ipynb | Selects relevant data and variables |
-| 03_Data_Validation_and_Cleaning.ipynb | Validates and cleans the dataset |
-| 04_Data_Extraction.ipynb | Extracts location, anemia, and factor datasets |
-| 05_Data_Aggregation_and_Representation.ipynb | Performs grouping, aggregation, and risk-score analysis |
-| 06_Data_Analysis.ipynb | Performs statistical and exploratory analysis |
-| 07_ML_Model.ipynb | Applies machine learning |
-| 08_Data_Visualization.ipynb | Creates charts and visual representations |
+| DataLoading.ipynb | Loads and initially inspects the dataset |
+| Data_Acquisition_and_Filtering.ipynb | Selects relevant data and variables |
+| Data_Validation_and_Cleaning.ipynb | Validates and cleans the dataset |
+| Data_Extraction.ipynb | Extracts location, anemia, and factor datasets |
+| Data_Aggregation_and_Representation.ipynb | Performs grouping, aggregation, and risk-score analysis |
+| Data_Analysis.ipynb | Performs statistical and exploratory analysis |
+| ML_Model.ipynb | Applies machine learning |
+| Data_Visualization.ipynb | Creates charts and visual representations |
 
 ## 8. Data Preprocessing
 
@@ -269,7 +269,7 @@ The analysis provides a data-driven view of anemia prevalence and its relationsh
 ### Step 1: Clone the repository
 
 ```bash
-git clone [YOUR_GITHUB_REPOSITORY_URL]
+git clone https://github.com/MNBSasirekha/Analysis-of-anemia-among-indian-women.git
 cd Anemia-Analysis-NFHS
 ```
 
