@@ -1,0 +1,28 @@
+# Results & Interpretation
+
+## Results
+
+The project analyzes district-level anemia prevalence among women using NFHS data. The results are presented through state-wise and district-wise comparisons, correlation analysis, risk scores, and visualizations.
+
+## Key Findings
+
+- Anemia prevalence varies across different States/UTs and districts.
+- Districts with higher anemia prevalence were identified through the analysis.
+- Correlation analysis was used to examine relationships between anemia and selected health and socioeconomic indicators.
+- Risk Score analysis was used to compare relative anemia-related risk across districts.
+- Visualizations make the major patterns and comparisons easier to understand.
+
+## Interpretation
+
+The analysis provides descriptive insights into the distribution of anemia across the analyzed districts and States/UTs. The observed relationships represent associations in the dataset and should not be interpreted as proof of causation.
+
+## Limitations
+
+- The analysis depends on the variables available in the selected NFHS dataset.
+- The Risk Score is a project-specific analytical measure.
+- Correlation does not establish cause and effect.
+- Dataset quality and available information may affect the results.
+
+## Conclusion
+
+The project demonstrates a complete data analysis workflow from data loading and cleaning to analysis, visualization, and interpretation. The results provide a data-driven view of anemia patterns in the analyzed NFHS data.
